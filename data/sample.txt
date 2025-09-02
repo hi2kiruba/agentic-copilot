@@ -1,0 +1,3 @@
+This is a sample file for Week 1 Lab.
+It contains some information about AI agents.
+You can add more lines to simulate a real document.

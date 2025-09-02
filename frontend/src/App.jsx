@@ -9,7 +9,7 @@ function App() {
       .then((data) => setMessage(data.message));
   }, []);
 
-  return <div className="p-6 text-xl font-bold">{message || "Loading..."}</div>;
+  return <div className="p-6 text-xl font-bold">{message}</div>;
 }
 
 export default App;
